@@ -18,6 +18,8 @@
 - Bad drivers
 - My nephew not listening to me
 
-## Professional History - Certification
+## Professional History
+
+### Certification
 
 Certificate in Software Development at Correlation One
