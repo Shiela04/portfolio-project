@@ -7,11 +7,11 @@
 
 1. Clone the repository to your local machine:
 
-   ![GitHub cloning](git-clone.png)
+   ![GitHub cloning](images/git-clone.png)
 
 2. Navigate to the project directory:
 
-   ![Project Directory](project-directory.png)
+   ![Project Directory](images/project-directory.png)
 
 3. Create a new branch (feature/new-feature).
 
