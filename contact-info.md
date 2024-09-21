@@ -7,8 +7,8 @@ Whether you have questions, feedback, or just want to connect, feel free to reac
 **Email**
 You can email me at:
 
-- Personal email: <ins>shieladaguio04@gmail.com</ins>
-- Professional email: <u>shielamarie.daguio@edu.sait.ca</u>
+- Personal email: shieladaguio04@gmail.com
+- Professional email: shielamarie.daguio@edu.sait.ca
 
 **Social Media**
 Connect with me on social media:
